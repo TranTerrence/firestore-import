@@ -1,0 +1,20 @@
+{
+    "1": {
+        "questions": {
+            "eng": "What do you wish you had more time to do?",
+            "fr": "Que souhaites-tu avoir plus de temps pour faire ?"
+        },
+        "categories": [
+            "Self-Reflection"
+        ]
+    },
+    "2": {
+        "questions": {
+            "eng": "What is something new you recently tried and enjoyed ?",
+            "fr": "Quelle est la nouvelle chose que tu as récemment essayée et appréciée ?"
+        },
+        "categories": [
+            "Icebreaker"
+        ]
+    }
+}
